@@ -1,0 +1,1 @@
+Los procedimientos almacenados son parecidos a las vistas. La diferencia es que las vistas estan limitadas a hacer consultas SELECT, mientras que con os procedimientos almacenados   tenemos mayor control a nivel de operaciones y nos permiten hacer todo tipo de consultas. 

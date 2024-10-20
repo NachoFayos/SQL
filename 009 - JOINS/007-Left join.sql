@@ -1,0 +1,1 @@
+SELECT * FROM alumnos LEFT JOIN matriculas ON alumnos.nombre = matriculas.alumno;

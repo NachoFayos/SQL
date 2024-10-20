@@ -1,0 +1,1 @@
+INSERT INTO `codigospostales` (`identificador`, `idprovincia`, `codigopostal`, `idmunicipio`, `nombremunicipio`) VALUES (NULL, '', '46555', '001', 'Pueblo de Nacho');

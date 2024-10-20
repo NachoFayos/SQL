@@ -1,0 +1,1 @@
+CREATE TABLE `subconsultas`.`clientes` (`identificador` INT(255) NOT NULL AUTO_INCREMENT , `nombre` VARCHAR(255) NOT NULL , `email` VARCHAR(255) NOT NULL , `telefono` INT NOT NULL , PRIMARY KEY (`identificador`)) ENGINE = InnoDB;

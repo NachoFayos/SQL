@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS `empresa2`.`codigos_postales_municipios` (`codigopostal` int(5), `idmunicipio` int(5), `nombremunicipio` varchar(47)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;;

@@ -1,0 +1,1 @@
+CREATE TABLE `empresa2`.`impuestos` (`identificador` INT(255) NOT NULL AUTO_INCREMENT , `nombre` VARCHAR(255) NOT NULL , `tipoimposotivo` INT(10) NOT NULL , `descripcion` VARCHAR(255) NOT NULL , PRIMARY KEY (`identificador`)) ENGINE = InnoDB;

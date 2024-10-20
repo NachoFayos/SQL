@@ -1,0 +1,1 @@
+CREATE TABLE entradas (`identificador` INT(255) NOT NULL AUTO_INCREMENT , `titulo` INT(255) NOT NULL , `contenido` TEXT NOT NULL , `fecha` DATE NOT NULL , PRIMARY KEY (`identificador`)) ENGINE = InnoDB;

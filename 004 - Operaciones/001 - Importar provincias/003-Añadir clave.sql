@@ -1,0 +1,1 @@
+ALTER TABLE `provincias` ADD `identificador` INT(255) NOT NULL AUTO_INCREMENT FIRST, ADD PRIMARY KEY (`identificador`);
