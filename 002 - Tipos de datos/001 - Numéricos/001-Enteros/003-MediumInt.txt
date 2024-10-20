@@ -1,0 +1,3 @@
+3 bytes
+16.777.216 sin signo 
+8.388.608 con signo

@@ -1,0 +1,1 @@
+Abrir en OpenDocument Text y OpenDocument Spreadsheet.

@@ -1,0 +1,1 @@
+Es el software que hace funcionar la wikipedia. Te permite crear una wiki a partir de la copia de la base de datos. 

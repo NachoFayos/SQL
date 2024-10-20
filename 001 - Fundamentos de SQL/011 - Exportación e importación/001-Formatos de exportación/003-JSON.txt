@@ -1,0 +1,1 @@
+Formato estructurado. Guarda la información pero NO la estructura. 

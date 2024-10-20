@@ -1,0 +1,5 @@
+CREATE USER 
+'nachofayos2'@'localhost' 
+IDENTIFIED VIA 
+mysql_native_password 
+USING '*F219B5D5D63649B81BC4E8E0E8B76BFB04555E9D';

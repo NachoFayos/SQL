@@ -1,0 +1,1 @@
+Guardar en formato array ESTÁTICO del lenguaje PHP.

@@ -1,0 +1,2 @@
+max 65 digitos en las unidades 
+mas 30 decimales

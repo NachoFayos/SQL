@@ -1,0 +1,1 @@
+Similar a Varchar pero con cadenas binarias.

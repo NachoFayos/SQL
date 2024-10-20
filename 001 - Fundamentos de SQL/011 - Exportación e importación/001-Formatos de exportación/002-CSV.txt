@@ -1,0 +1,1 @@
+Formato que congrega todos los datos de nuestra base de datos en un solo archivo separados por comas.

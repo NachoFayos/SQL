@@ -1,0 +1,1 @@
+mysqldump.exe -u root -p --all-databases > C:/copiasdeseguridad/20240423copiadeseguridad.sql

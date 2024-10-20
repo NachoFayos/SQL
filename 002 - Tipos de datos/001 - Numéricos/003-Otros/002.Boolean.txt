@@ -1,0 +1,2 @@
+0 es falso
+cualquier valor desde 1 a 255 es verdadero.
